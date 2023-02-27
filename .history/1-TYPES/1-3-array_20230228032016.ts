@@ -1,0 +1,4 @@
+{
+  //  Array
+  const fruits: string[] = ["💡", "🔥"];
+}
